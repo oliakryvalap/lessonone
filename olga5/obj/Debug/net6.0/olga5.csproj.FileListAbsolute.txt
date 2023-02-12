@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\olga\olga5\bin\Debug\net6.0\olga5.exe
+C:\Users\user\Desktop\olga\olga5\bin\Debug\net6.0\olga5.deps.json
+C:\Users\user\Desktop\olga\olga5\bin\Debug\net6.0\olga5.runtimeconfig.json
+C:\Users\user\Desktop\olga\olga5\bin\Debug\net6.0\olga5.dll
+C:\Users\user\Desktop\olga\olga5\bin\Debug\net6.0\olga5.pdb
+C:\Users\user\Desktop\olga\olga5\obj\Debug\net6.0\olga5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\olga\olga5\obj\Debug\net6.0\olga5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\olga\olga5\obj\Debug\net6.0\olga5.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\olga\olga5\obj\Debug\net6.0\olga5.AssemblyInfo.cs
+C:\Users\user\Desktop\olga\olga5\obj\Debug\net6.0\olga5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\olga\olga5\obj\Debug\net6.0\olga5.dll
+C:\Users\user\Desktop\olga\olga5\obj\Debug\net6.0\refint\olga5.dll
+C:\Users\user\Desktop\olga\olga5\obj\Debug\net6.0\olga5.pdb
+C:\Users\user\Desktop\olga\olga5\obj\Debug\net6.0\olga5.genruntimeconfig.cache
+C:\Users\user\Desktop\olga\olga5\obj\Debug\net6.0\ref\olga5.dll
